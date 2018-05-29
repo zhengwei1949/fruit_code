@@ -1,0 +1,3 @@
+1|img/banana1.jpg|香蕉
+2|img/apple1.jpg|苹果
+3|img/orange1.jpg|橘子
